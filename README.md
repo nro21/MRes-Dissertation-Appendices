@@ -13,3 +13,5 @@ Supplementary video 5 : Shows gels made on-chip by the acetic acid method with 5
 Supplementary video 6 : Shows hybrid gels being guided to the first junction in a T-junction maze. Gels made on chip by the calcium chloride suspension method 5 mg/ml magnetic particles and 1 ml of liquid E. coli OD 0.1-0.2 resuspended in 500 μl of alginate
 
 Supplementary video 7 :  Shows hybrid gels being guided to the final well in a T-junction maze. Gels made on chip by the calcium chloride suspension method 5 mg/ml magnetic particles and 1 ml of liquid E. coli OD 0.1-0.2 resuspended in 500 μl of alginate
+
+Supplementary video 8 : Shows on-chip production of gels with 5 mg/ml magnetic particles by the acetic acid method. 
